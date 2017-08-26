@@ -1,4 +1,5 @@
 # Chattaria
+
 *A chat-based, dungeon crawler RPG all in the form of text log.*
 
 **Upcoming Update [v0.0.1.0]**
