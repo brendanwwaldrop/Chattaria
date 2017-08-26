@@ -1,2 +1,2 @@
-# Chattaria
-A chat-based, dungeon crawler RPG.
+##Chattaria
+#*A chat-based, dungeon crawler RPG all in the form of text Log.*
